@@ -17,7 +17,7 @@ jobs:
         with:
           bump_version_scheme: patch
           tag_prefix: v
-          use_github_release_notes: true
+          use-github-release-notes: true
 
       - name: Check Output Parameters
         run: |
