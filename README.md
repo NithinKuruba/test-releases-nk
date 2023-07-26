@@ -13,3 +13,5 @@ Test repository for releases
 ### Adding a new feature 05
 
 ### Adding a new feature 06
+
+### Adding a new feature 07
