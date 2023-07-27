@@ -21,3 +21,5 @@ Test repository for releases
 ### Adding a new bug 02
 
 ### Adding a new doc 01
+
+### Adding a new breaking change 01
