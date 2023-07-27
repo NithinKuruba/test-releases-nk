@@ -17,3 +17,5 @@ Test repository for releases
 ### Adding a new feature 07
 
 ### Adding a new bug 01
+
+### Adding a new bug 02
